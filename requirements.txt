@@ -1,0 +1,13 @@
+openai
+pycryptodome
+langchain
+flask
+pypdf
+tiktoken
+chromadb
+flask_limiter
+flask_jwt_extended
+flask_sqlalchemy
+flask_migrate
+pytest
+pytest-flask
